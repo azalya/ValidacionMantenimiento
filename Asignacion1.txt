@@ -1,3 +1,5 @@
 a) Control de cambio
+concluido
 b) control de configuracion
+concluido
 c) reporte de estado
