@@ -1,2 +1,3 @@
 a) Control de cambio
-Cambio exitoso " bien hecho" 
+b) control de configuracion
+c) reporte de estado
